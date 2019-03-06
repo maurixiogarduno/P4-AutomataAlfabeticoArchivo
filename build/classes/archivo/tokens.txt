@@ -1,3 +1,5 @@
-ab;abbbaaa;
-ababab;bbbb;
-aaaaa;aaaaaaaa;
+azb;abbbaaa;
+aba|bab;bbbb;
+aabba;aaa(ab)*aaaa;ac;dec;
+
+k;
